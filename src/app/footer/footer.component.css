@@ -1,0 +1,30 @@
+/* footer.component.css */
+
+/* Footer container */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+    padding: 1rem;
+  }
+  
+  /* Text alignment (centered or left-aligned) */
+  .footer-content {
+    text-align: center;
+  }
+  
+  /* Social media icons (if applicable) */
+  .social-icons {
+    margin-top: 1rem;
+  }
+  
+  .social-icon {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  

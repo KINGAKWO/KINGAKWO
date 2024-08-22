@@ -1,0 +1,40 @@
+/* header.component.css */
+
+/* Set a fixed position at the top of the page */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #0074e4; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  /* Centered logo or app name */
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Navigation links (styled as buttons or links) */
+  .nav-link {
+    margin-right: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* User profile/avatar (if applicable) */
+  .user-profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+  }
+  
