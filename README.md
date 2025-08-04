@@ -9,10 +9,6 @@ I'm a Python developer in training, currently taking the Microsoft Automation & 
 - Using `venv` to manage environments
 - Integrating Python with shell commands
 
-## 📚 My Journey (Updated Weekly)
-
-- ✅ Module 1: CLI Basics + File Scripting [Repo](https://github.com/KINGAKWO/python-automation-course)
-- 🔄 Module 2: Virtual Environments (in progress)
 
 ## 🧰 Tools I Use
 
