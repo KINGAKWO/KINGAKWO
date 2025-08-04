@@ -24,7 +24,9 @@ I'm a Python developer in training, currently taking the Microsoft Automation & 
 
 ### 🗂️ Latest Projects
 
-(https://github.com/KINGAKWO/python-automation-course.git)
+recap of the projects worked as I took the Microsoft automation scripting with Python (https://github.com/KINGAKWO/python-automation-course.git)
+
+LINGO ROOTS web app to learn cameroonian local languages like bafaw,duala (https://github.com/KINGAKWO/LingoRoots-studio-.git)
 
 ---
 
