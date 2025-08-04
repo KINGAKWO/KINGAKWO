@@ -24,7 +24,7 @@ I'm a Python developer in training, currently taking the Microsoft Automation & 
 
 ### 🗂️ Latest Projects
 
-<!-- Add links to each module or project here as you go -->
+(https://github.com/KINGAKWO/python-automation-course.git)
 
 ---
 
