@@ -32,4 +32,4 @@ LINGO ROOTS web app to learn cameroonian local languages like bafaw,duala (https
 
 ---
 
-Let's connect on [LinkedIn](www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀
+Let's connect on [LinkedIn](www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀, https://profile.codersrank.io/user/kingakwo/
