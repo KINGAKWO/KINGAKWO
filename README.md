@@ -24,12 +24,12 @@ I'm a Python developer in training, currently taking the Microsoft Automation & 
 
 ### 🗂️ Latest Projects
 
+My solutions to freeCodeCamp's Daily Coding Challenges — starting Day 1 15/08/2025.
+https://github.com/KINGAKWO/freeCodeCamp_Daily_Challenge.git
+
 recap of the projects worked as I took the Microsoft automation scripting with Python which is also part of the Microsoft Python Certification Course (https://github.com/KINGAKWO/python-automation-course.git)
 
 A personal repo for learning and practicing Python as a software engineering student undertaking the Microsoft Python Certification Course (https://github.com/KINGAKWO/learning-python-journey.git)
 
-LINGO ROOTS web app to learn cameroonian local languages like bafaw,duala (https://github.com/KINGAKWO/LingoRoots-studio-.git)
-
----
 
 Let's connect on [LinkedIn](www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀, https://profile.codersrank.io/user/kingakwo/
