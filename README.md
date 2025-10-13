@@ -16,11 +16,7 @@ I'm a Python developer in training, currently taking the Microsoft Automation & 
 - VS Code, Jupyter
 - GitHub for sharing everything I learn
 
-## 🎯 2025 Goal
 
-📌 Land my first Python developer role and contribute to open-source automation projects.
-
----
 
 ### 🗂️ Latest Projects
 
