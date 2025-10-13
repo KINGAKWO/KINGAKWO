@@ -1,31 +1,50 @@
 # 👋 Hi, I'm King Akwo
 
-I'm a Python developer in training, currently taking the Microsoft Automation & Scripting with Python course on Coursera. I'm building a strong foundation in scripting, command-line automation, virtual environments, and real-world task automation using Python.
+I'm a passionate **Python Developer** currently transitioning from structured learning to **real-world project building**.
 
-## 🚀 My Current Focus
+After completing the **Microsoft Python Development Career Certification** and over **50 days of FreeCodeCamp daily challenges**, I’ve begun a new phase — building portfolio-ready projects that demonstrate automation, data handling, web development, and AI integration.
 
-- Automating tasks with Python scripts
-- Building CLI tools with `argparse` and `sys`
-- Using `venv` to manage environments
-- Integrating Python with shell commands
+---
 
+## 🔭 Current Focus — Python Project Bootcamp (Phase II)
 
-## 🧰 Tools I Use
+- Building **real-world automation tools and dashboards**
+- Applying **data analysis & visualization** in projects
+- Integrating **APIs and web scraping** into practical use cases
+- Developing **Flask web apps** and learning deployment
+- Taking the **IBM Data Analyst Professional Certificate**
 
-- Python, Git, Bash, PowerShell
-- VS Code, Jupyter
-- GitHub for sharing everything I learn
+---
 
+## 🧰 Tech Stack
 
+- **Languages:** Python, JavaScript  
+- **Tools:** Git, VS Code, Jupyter, PowerShell  
+- **Libraries:** Pandas, Matplotlib, Requests, Flask, JSON, CSV  
+- **Version Control:** GitHub (for documentation and project sharing)
 
-### 🗂️ Latest Projects
+---
 
-My solutions to freeCodeCamp's Daily Coding Challenges — starting Day 1 15/08/2025.
-https://github.com/KINGAKWO/freeCodeCamp_Daily_Challenge.git
+## 🧩 Featured Project: Personal Finance Tracker
 
-recap of the projects worked as I took the Microsoft automation scripting with Python which is also part of the Microsoft Python Certification Course (https://github.com/KINGAKWO/python-automation-course.git)
+A command-line Python app that helps users:
+- Record income and expenses  
+- View and search transactions  
+- Generate monthly summaries  
+- Visualize finances using Matplotlib  
+- Export data to JSON/CSV  
 
-A personal repo for learning and practicing Python as a software engineering student undertaking the Microsoft Python Certification Course (https://github.com/KINGAKWO/learning-python-journey.git)
+🔗 [View the full project here](https://github.com/KINGAKWO/personal-finance-tracker)
 
+---
 
-Let's connect on [LinkedIn](www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀, https://profile.codersrank.io/user/kingakwo/
+## 🌱 Learning Journey
+
+📘 Completed: Microsoft Python Development Certification  
+🧩 In Progress: IBM Data Analyst Professional Certificate  
+💻 Building: Python Project Bootcamp — From Challenges to Real-World Applications
+
+---
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀  
+📊 Also on [CodersRank](https://profile.codersrank.io/user/kingakwo)
