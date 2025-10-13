@@ -1,50 +1,60 @@
-# 👋 Hi, I'm King Akwo
+# 👋 Hi, I'm King Akwo  
 
-I'm a passionate **Python Developer** currently transitioning from structured learning to **real-world project building**.
+💻 **Python Developer | Data Enthusiast | Automation & AI Explorer**
 
-After completing the **Microsoft Python Development Career Certification** and over **50 days of FreeCodeCamp daily challenges**, I’ve begun a new phase — building portfolio-ready projects that demonstrate automation, data handling, web development, and AI integration.
+I’m a passionate Python developer currently transitioning from challenge-based learning into **real-world project development** — applying automation, data analysis, and AI integration to build portfolio-ready applications.  
 
----
-
-## 🔭 Current Focus — Python Project Bootcamp (Phase II)
-
-- Building **real-world automation tools and dashboards**
-- Applying **data analysis & visualization** in projects
-- Integrating **APIs and web scraping** into practical use cases
-- Developing **Flask web apps** and learning deployment
-- Taking the **IBM Data Analyst Professional Certificate**
+I recently earned the **Microsoft Python Development Career Certificate** and I’m now advancing through the **IBM Data Analyst Professional Certificate**, while continuing to strengthen my development workflow through hands-on projects.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Current Focus: *Python Project Bootcamp*
 
-- **Languages:** Python, JavaScript  
-- **Tools:** Git, VS Code, Jupyter, PowerShell  
-- **Libraries:** Pandas, Matplotlib, Requests, Flask, JSON, CSV  
-- **Version Control:** GitHub (for documentation and project sharing)
+A structured, self-guided bootcamp where I turn theory into practical, deployable solutions.  
+Each project builds upon the previous, focusing on real-world use cases in automation, analytics, and AI integration.
 
----
+### 🧩 Active Project
+**[Personal Finance Tracker](https://github.com/KINGAKWO/python-project-bootcamp/tree/main/Personal_Finance_Tracker)**  
+A CLI-based Python app that helps users record, analyze, and visualize income & expenses.
 
-## 🧩 Featured Project: Personal Finance Tracker
-
-A command-line Python app that helps users:
-- Record income and expenses  
-- View and search transactions  
-- Generate monthly summaries  
-- Visualize finances using Matplotlib  
-- Export data to JSON/CSV  
-
-🔗 [View the full project here](https://github.com/KINGAKWO/personal-finance-tracker)
+### 📚 Bootcamp Roadmap
+- 🗓️ Phase 1: Automation & Scripting Projects  
+  *Finance Tracker, News Sentiment Analyzer, Weather Dashboard*  
+- ⚙️ Phase 2: Portfolio & Visibility Projects  
+  *AI Résumé Matcher, Habit Tracker Web App, AI Chatbot Assistant*  
+- 🌍 Phase 3: Career Branding & Refinement  
+  *LinkedIn documentation, GitHub polish, and demo showcase*
 
 ---
 
-## 🌱 Learning Journey
-
-📘 Completed: Microsoft Python Development Certification  
-🧩 In Progress: IBM Data Analyst Professional Certificate  
-💻 Building: Python Project Bootcamp — From Challenges to Real-World Applications
+## 🧰 Tech Stack & Tools
+- **Languages:** Python, SQL, JavaScript (basic)
+- **Frameworks:** Flask, FastAPI (learning)
+- **Libraries:** Pandas, Matplotlib, Requests, BeautifulSoup, OpenAI API
+- **Tools:** Git, VS Code, Jupyter, PowerShell, JSON, APIs, GitHub Actions
 
 ---
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/akwo-makembe-king-108a28252) 🚀  
-📊 Also on [CodersRank](https://profile.codersrank.io/user/kingakwo)
+## 🧠 Certifications
+🎓 Microsoft Python Development Career Certificate  
+🎓 IBM Data Analyst Professional Certificate *(in progress)*
+
+---
+
+## 🗂️ Previous Work
+- [FreeCodeCamp Daily Coding Challenges (Days 1–50)](https://github.com/KINGAKWO/freeCodeCamp_Daily_Challenge)  
+- [Microsoft Python Automation Projects](https://github.com/KINGAKWO/python-automation-course)  
+- [Learning Python Journey](https://github.com/KINGAKWO/learning-python-journey)
+
+---
+
+## 🌍 Connect
+Let’s connect and grow together 👇  
+🔗 [LinkedIn](https://www.linkedin.com/in/akwo-makembe-king-108a28252)  
+💼 [GitHub](https://github.com/KINGAKWO)  
+📊 [CodersRank Profile](https://profile.codersrank.io/user/kingakwo)
+
+---
+
+> 🧩 “Code every day, but build with purpose.”  
+> Each commit moves me closer to mastery — one project at a time.
