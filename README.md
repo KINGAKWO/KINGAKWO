@@ -42,6 +42,7 @@ A CLI-based Python app that helps users record, analyze, and visualize income & 
 ---
 
 ## 🗂️ Previous Work
+- [IBM Data Analyst Professional Certificate](https://github.com/KINGAKWO/ibm-data-analytics-journey)
 - [FreeCodeCamp Daily Coding Challenges (Days 1–50)](https://github.com/KINGAKWO/freeCodeCamp_Daily_Challenge)  
 - [Microsoft Python Automation Projects](https://github.com/KINGAKWO/python-automation-course)  
 - [Learning Python Journey](https://github.com/KINGAKWO/learning-python-journey)
