@@ -21,14 +21,6 @@ A CLI-based Python app that helps users record, analyze, and visualize income & 
 A Telegram chatbot named "Lewis" designed to provide spiritual comfort, biblical encouragement, and pastoral listening using AI, while maintaining strict safety guardrails and user privacy.
 
 
-### 📚 Bootcamp Roadmap
-- 🗓️ Phase 1: Automation & Scripting Projects  
-  *Finance Tracker, News Sentiment Analyzer, Weather Dashboard*  
-- ⚙️ Phase 2: Portfolio & Visibility Projects  
-  *AI Résumé Matcher, Habit Tracker Web App, AI Chatbot Assistant*  
-- 🌍 Phase 3: Career Branding & Refinement  
-  *LinkedIn documentation, GitHub polish, and demo showcase*
-
 ---
 
 ## 🧰 Tech Stack & Tools
