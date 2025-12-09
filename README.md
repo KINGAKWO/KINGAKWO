@@ -17,6 +17,8 @@ Each project builds upon the previous, focusing on real-world use cases in autom
 **[Personal Finance Tracker](https://github.com/KINGAKWO/python-project-bootcamp/tree/main/Personal_Finance_Tracker)**  
 A CLI-based Python app that helps users record, analyze, and visualize income & expenses.
 **[Lewis: Spiritual companion](https://github.com/KINGAKWO/BOTS.git)**
+A Telegram chatbot named "Lewis" designed to provide spiritual comfort, biblical encouragement, and pastoral listening using AI, while maintaining strict safety guardrails and user privacy.
+
 
 ### 📚 Bootcamp Roadmap
 - 🗓️ Phase 1: Automation & Scripting Projects  
