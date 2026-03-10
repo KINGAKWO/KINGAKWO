@@ -25,6 +25,9 @@ I convert challenge-driven learning into practical projects: automation scripts,
 
 ## Portfolio — Selected snapshots & demos
 
+- ASOS-Product-Catalog-Analysis - Data Analytics Portfolio Project - https://github.com/KINGAKWO/ASOS-Product-Catalog-Analysis/blob/main/asos_dashboard.py
+  - Python, Pandas, Streamlit, Plotly | Analyzed 30K+ product catalog to identify stock patterns, brand performance, and pricing strategies with visual insights and             actionable recommendations
+
 - Lewis — Spiritual Companion (BOTS)  
   Telegram bot: @BiblicalCounselorBot — a privacy-first AI assistant providing spiritual comfort and pastoral listening with clear safety guardrails.  
   - Chat screenshot (uploaded to repo):  
